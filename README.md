@@ -26,6 +26,7 @@ in-memory store (4 users, 5 posts) — no database required to try it out.
 To use real MongoDB, set `MONGO_URI` to your connection string (e.g. a free
 MongoDB Atlas cluster) and restart; the same Mongoose models take over
 automatically.
+`NB` For Review am using my  `MONGO_URI`
 
 **Frontend**
 ```bash
